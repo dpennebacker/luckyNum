@@ -3,7 +3,7 @@ package com.company;
 import java.util.Scanner;
 
 public class Main {
-
+//Where is the unknown file?
     public static void main(String[] args) {
         Scanner sysin = new Scanner(System.in);
         System.out.println("What is the name of the person you want a lucky number for?");
